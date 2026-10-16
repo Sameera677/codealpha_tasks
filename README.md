@@ -1,35 +1,3 @@
-Task 4: Simple Chatbot
-
-Description
-The Simple Chatbot is a basic rule-based chatbot that interacts with users through the console. It responds to predefined messages using conditional statements.
-
-Features:
-  -Greets the user.
-  -Responds to predefined questions and messages.
-  -Uses simple keyword or text matching.
-  -Continues the conversation until the user chooses to exit.
-
-Concepts Used:
-  -Python functions
-  -if-elif-else statements
-  -while loops
-  -User input and output
-  -String handling
-  -Basic logical operations
-
-How to Run:
-  -Make sure Python is installed on your computer.
-  -Open the project folder in VS Code.
-  -Run the following command in the terminal Simple_Chatbot.py
-
-Technologies Used:
-   -Programming Language: Python
-   -Code Editor: Visual Studio Code
-   -Version Control: Git and GitHub
-   
-Objective
-The objective of these projects is to strengthen Python fundamentals, improve logical thinking, and gain practical programming experience.
-
 ## Task 1: Hangman Game
 
 **Description:** The Hangman Game is a text-based word-guessing game developed using Python. The computer randomly selects a word from a predefined list, and the player must guess the word one letter at a time.
@@ -66,6 +34,41 @@ python Hangman.py
 
 **Objective:** The objective of this project is to strengthen Python fundamentals, improve logical thinking, and understand how loops, conditions, and random selection can be used to develop a simple interactive game.
 
-Author
+## Task 4: Simple Chatbot
+
+**Description:** The Simple Chatbot is a basic rule-based chatbot developed using Python. It interacts with users through the console and responds to predefined messages using conditional statements.
+
+**Features:**
+- Greets the user with a welcome message.
+- Responds to predefined questions and messages.
+- Uses simple text matching to identify user input.
+- Continues the conversation until the user chooses to exit.
+- Provides appropriate responses based on the user's input.
+
+**Concepts Used:**
+- Python functions
+- `if-elif-else` statements
+- `while` loops
+- User input and output
+- String handling
+- Conditional logic
+
+**How to Run:**
+- Make sure Python is installed on your computer.
+- Open the project folder in VS Code.
+- Run the following command in the terminal:
+
+```bash
+python Simple_Chatbot.py
+```
+
+**Technologies Used:**
+- Programming Language: Python
+- Code Editor: Visual Studio Code
+- Version Control: Git and GitHub
+
+**Objective:** The objective of this project is to strengthen Python fundamentals, improve logical thinking, and understand how conditional statements, loops, and functions can be used to create a simple interactive chatbot.
+
+**Author**
 Created as part of Python programming practice.
    
