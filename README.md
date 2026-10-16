@@ -1,4 +1,4 @@
-----Task 4: Simple Chatbot
+Task 4: Simple Chatbot
 
 Description
 The Simple Chatbot is a basic rule-based chatbot that interacts with users through the console. It responds to predefined messages using conditional statements.
@@ -30,6 +30,6 @@ Technologies Used:
 Objective
 The objective of these projects is to strengthen Python fundamentals, improve logical thinking, and gain practical programming experience.
 
-👩‍💻 Author
-
-Created as part of beginner Python programming practice.
+Author
+Created as part of Python programming practice.
+   
